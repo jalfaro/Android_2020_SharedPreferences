@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EjemploTransferenciaDatos</string>
+    <string name="user_text">Ingrese el Usuario</string>
+    <string name="pass_text">Ingrese la Contraseña</string>
+    <string name="btnLoginText">Ingrese a Applicacion</string>
+    <string name="bad_user_message">Usuario Invalido</string>
+</resources>
